@@ -1,5 +1,5 @@
 # Base32Datevid
-Propuesta de codificación Base32 Fácil uso para el ser humano
+Propuesta de codificación Base32 de fácil uso para el ser humano
 
 Características
 Facil uso para el ser humano

@@ -6,8 +6,8 @@
 
 package net.datevid.base32datevid.test;
 
-import static net.datevid.base32datevid.Base32Datevid.decode;
-import static net.datevid.base32datevid.Base32Datevid.encode;
+import static net.datevid.base32datevid.Base32.decode;
+import static net.datevid.base32datevid.Base32.encode;
 
 /**
  *

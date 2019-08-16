@@ -22,7 +22,7 @@ import java.util.*;
  * U omitido por generar posibles palabras obsenas en español/ingles
  * More in: https://github.com/datevid/Base32Datevid
  */
-public class Base32Datevid {
+public class Base32 {
 
     private static String ALPHABET_BASE32 = "ABCDEFGHJKLMNPQRSTVWXYZ123456789";
     private static String ALPHABET_B32_UPPERCASE = ALPHABET_BASE32.toUpperCase();
